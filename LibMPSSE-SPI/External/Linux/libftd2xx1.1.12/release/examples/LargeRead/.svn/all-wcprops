@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/examples/LargeRead
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/examples/LargeRead/main.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/examples/LargeRead/Makefile
+END

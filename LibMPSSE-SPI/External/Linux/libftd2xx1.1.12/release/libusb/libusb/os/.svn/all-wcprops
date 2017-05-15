@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/os
+END
+linux_usbfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/os/linux_usbfs.c
+END
+darwin_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/os/darwin_usb.h
+END
+linux_usbfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/os/linux_usbfs.h
+END
+darwin_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/os/darwin_usb.c
+END

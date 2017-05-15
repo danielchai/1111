@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00
+END
+ftdiport.cat
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/ftdiport.cat
+END
+ftd2xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/ftd2xx.h
+END
+ftdibus.cat
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/ftdibus.cat
+END
+ftdiport.inf
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/ftdiport.inf
+END
+ftdibus.inf
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/ftdibus.inf
+END

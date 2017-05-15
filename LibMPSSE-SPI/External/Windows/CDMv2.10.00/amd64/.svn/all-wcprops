@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64
+END
+ftcserco.dll
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftcserco.dll
+END
+ftd2xx64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftd2xx64.dll
+END
+ftd2xx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftd2xx.lib
+END
+ftlang.dll
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftlang.dll
+END
+ftbusui.dll
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftbusui.dll
+END
+ftdibus.sys
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftdibus.sys
+END
+ftser2k.sys
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftser2k.sys
+END
+ftserui2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Windows/CDMv2.10.00/amd64/ftserui2.dll
+END

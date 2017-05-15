@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb
+END
+descriptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/descriptor.c
+END
+libusbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/libusbi.h
+END
+libusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/libusb.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/io.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/core.c
+END
+sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/fmi/!svn/ver/21283/HPXCT/trunk/Software/PETSoftware_PreAlpha/ThirdPartySoftware/LibMPSSE-SPI_source/LibMPSSE-SPI/External/Linux/libftd2xx1.1.12/release/libusb/libusb/sync.c
+END
